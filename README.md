@@ -206,11 +206,11 @@ class DevOpsEngineer:
 ## 🌱 Currently Learning
 
 ```
-🧱 React.js        → Advanced Hooks · Context API · React Router
-☁️ Cloud           → Oracle Cloud Infrastructure · Google Cloud Essentials
-🤖 Generative AI   → Prompt Engineering · AI-powered Web Apps
-🗄️ Backend         → REST APIs · Express.js · Database Optimization
-🐧 Linux           → Shell Scripting · System Administration
+🧱  React.js               → Advanced Hooks · Context API · React Router
+☁️  Cloud                  → Oracle Cloud Infrastructure · Google Cloud Essentials
+🤖  Generative AI          → Prompt Engineering · AI-powered Web Apps
+🗄️  Backend                 → REST APIs · Express.js · Database Optimization
+🐧  Linux                  → Shell Scripting · System Administration
 ☸️  Kubernetes Advanced    →  HPA · StatefulSets · Service Mesh (Istio)
 🏗️  Terraform              →  Modules · Remote State · Terraform Cloud
 🔄  GitOps                 →  ArgoCD · Flux · Pull-based Deployments
