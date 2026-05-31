@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Deepak+K+%F0%9F%91%8B;Web+Developer+%7C+Full+Stack+Enthusiast;Python+%7C+JavaScript+%7C+React.js+%7C+Node.js;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Deepak+K+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%26+Automation;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Git+%7C+Python+%7C+Infrastructure+as+Code;Ship+Fast.+Scale+Smart.+Stay+Reliable.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=deepak160404&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/deepak160404)
 [![GitHub followers](https://img.shields.io/github/followers/deepak160404?style=flat-square&color=bf91f3&labelColor=0d1117)](https://github.com/deepak160404)
@@ -11,38 +9,46 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
-const deepak = {
-  name        : "Deepak K",
-  location    : "Perambalur, Tamil Nadu, India 🇮🇳",
-  degree      : "B.Sc Information Technology (2022–2025)",
-  college     : "Srinivasan College of Arts and Science",
-  email       : "deepak160404@gmail.com",
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name             = "Deepak K"
+        self.role             = "DevOps Engineer"
+        self.location         = "Perambalur, Tamil Nadu, India 🇮🇳"
+        self.email            = "deepak160404@gmail.com"
 
-  stack       : ["HTML", "CSS", "JavaScript", "React.js",
-                 "Node.js", "Python", "Java", "MySQL"],
+        self.cloud            = ["AWS (EC2, S3, IAM, EKS, Lambda)"]
+        self.containers       = ["Docker", "Kubernetes", "Helm"]
+        self.ci_cd            = ["GitHub Actions", "Jenkins", "GitLab CI"]
+        self.iac              = ["Terraform", "Ansible"]
+        self.languages        = ["Python", "Bash", "YAML", "Java"]
+        self.monitoring       = ["Prometheus", "Grafana", "CloudWatch"]
+        self.databases        = ["MySQL", "Oracle"]
+        self.os               = ["Linux (Ubuntu, Kali, Mint, Parrot)", "macOS"]
 
-  currentlyLearning : [
-    "Advanced React Patterns",
-    "REST API Design",
-    "Cloud Fundamentals (Oracle & Google)",
-    "Generative AI"
-  ],
+        self.currently_learning = [
+            "Kubernetes Advanced — HPA, StatefulSets, Service Mesh",
+            "AWS Solutions Architect concepts",
+            "GitOps with ArgoCD",
+            "Terraform Cloud & remote state",
+        ]
 
-  funFact     : "I built a free-learning platform so students\n" +
-                "don't have to pay ₹30,000 for coding courses 💡",
+    def fun_fact(self):
+        return (
+            "I automate the boring stuff so humans can do "
+            "the interesting stuff 🤖"
+        )
 
-  motto       : () => "Code it. Break it. Fix it. Ship it. 🚀"
-};
+    def motto(self):
+        return "Build. Automate. Monitor. Repeat. 🔄"
 ```
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -53,6 +59,66 @@ const deepak = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Cloud — AWS**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Version Control & Collaboration**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**OS & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 
 **Frontend**
 
@@ -128,6 +194,7 @@ const deepak = {
 
 | 📚 Degree | 🏫 Institution | 📅 Year |
 |:----------|:-------------|:-------|
+| M.Sc., Computer Science | Srinivasan College of Arts and Science, Perambalur | 2025 – 2027 |
 | B.Sc Information Technology | Srinivasan College of Arts and Science, Perambalur | 2022 – 2025 |
 | HSC (Higher Secondary) | St. Aloysious Higher Secondary School, Theni | 2021 – 2022 |
 | SSLC | Savariyappa Udaiyar Memorial HSS, Theni | 2019 – 2020 |
@@ -144,6 +211,12 @@ const deepak = {
 🤖 Generative AI   → Prompt Engineering · AI-powered Web Apps
 🗄️ Backend         → REST APIs · Express.js · Database Optimization
 🐧 Linux           → Shell Scripting · System Administration
+☸️  Kubernetes Advanced    →  HPA · StatefulSets · Service Mesh (Istio)
+🏗️  Terraform              →  Modules · Remote State · Terraform Cloud
+🔄  GitOps                 →  ArgoCD · Flux · Pull-based Deployments
+☁️  AWS                    →  Solutions Architect · EKS · Lambda · CloudFormation
+📊  Observability          →  Prometheus · Grafana Dashboards · Alertmanager
+🐍  Python for DevOps      →  Boto3 · Automation Scripts · FastAPI
 ```
 
 ---
@@ -170,8 +243,7 @@ const deepak = {
 ---
 
 <div align="center">
-  <i>"Code it. Break it. Fix it. Ship it. 🚀"</i><br/>
-  <sub>— Deepak K</sub>
+  <i>"Build. Automate. Monitor. Repeat. 🔄"</i><br/>
+  <sub>— Deepak K, DevOps Engineer</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
