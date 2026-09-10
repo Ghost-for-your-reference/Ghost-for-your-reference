@@ -1,4 +1,5 @@
 <div align="center">
+<p> Replaced By GPT 6 - ASTRA</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Deepak+K+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+%26+Automation;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Git+%7C+Python+%7C+Infrastructure+as+Code;Ship+Fast.+Scale+Smart.+Stay+Reliable.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
